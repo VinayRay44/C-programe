@@ -1,0 +1,59 @@
+Hello World Program – A basic C program used to display the message "Hello World" on the screen.
+
+Personal Information Program – A program used to display personal details such as name, roll number, class, and college.
+
+Addition of Two Numbers – A program that accepts two numbers as input and displays their sum.
+
+Arithmetic Operations Program – A program that performs addition, subtraction, multiplication, division, and modulus operations on two numbers.
+
+Area and Perimeter of Rectangle – A program that calculates the area and perimeter of a rectangle using its length and width.
+
+Area and Circumference of Circle – A program that calculates the area and circumference of a circle using its radius.
+
+Celsius to Fahrenheit Conversion – A program that converts temperature from Celsius to Fahrenheit using the conversion formula.
+
+Swap Two Numbers Using Third Variable – A program that exchanges the values of two variables with the help of an additional variable.
+
+Swap Two Numbers Without Third Variable – A program that exchanges the values of two variables without using any extra variable.
+
+Type Casting Program – A program that demonstrates the conversion of one data type into another.
+
+Positive, Negative, or Zero – A program that determines whether a given number is positive, negative, or zero using decision-making statements.
+
+Largest of Two Numbers – A program that compares two numbers and displays the greater one.
+
+Largest of Three Numbers – A program that compares three numbers and displays the largest value.
+
+Even or Odd Number – A program that checks whether a given number is even or odd.
+
+Leap Year Program – A program that checks whether a given year is a leap year or not.
+
+Vowel or Consonant – A program that checks whether an entered alphabet is a vowel or a consonant.
+
+Alphabet, Digit, or Special Symbol – A program that identifies whether the entered character is an alphabet, a digit, or a special symbol.
+
+Grade Calculation Program – A program that assigns grades to students based on their obtained marks.
+
+Greatest Among Four Numbers – A program that compares four numbers and displays the greatest value.
+
+Greater Number Using Ternary Operator – A program that finds the greater of two numbers using the conditional (ternary) operator.
+
+Menu-Driven Calculator Using Switch – A program that performs arithmetic operations through a menu using the switch statement.
+
+Display Day of the Week – A program that displays the name of the day according to the entered day number using the switch statement.
+
+Display Month Name – A program that displays the month name according to the entered month number using the switch statement.
+
+Vowel Check Using Switch – A program that checks whether an entered character is a vowel using the switch statement.
+
+Algorithm and Flowchart for Addition – An exercise to design the algorithm and flowchart for adding two numbers before writing the program.
+
+Algorithm and Flowchart for Largest of Two Numbers – An exercise to design the algorithm and flowchart for finding the larger of two numbers.
+
+Algorithm and Flowchart for Even or Odd – An exercise to design the algorithm and flowchart for checking whether a number is even or odd.
+
+Algorithm and Flowchart for Area of Circle – An exercise to design the algorithm and flowchart for calculating the area of a circle.
+
+Dry Run for Largest of Three Numbers – A manual step-by-step execution of the program to verify the logic for finding the largest of three numbers.
+
+Dry Run for Calculator Program – A manual execution of the calculator program to understand and verify its working step by step.
